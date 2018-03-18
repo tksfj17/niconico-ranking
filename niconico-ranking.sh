@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # xmlファイルの保存先
-hourlyDirname="/home/vagrant/workspace/html/bot/niconico-ranking-hourly-rss"
-dailyDirname="/home/vagrant/workspace/html/bot/niconico-ranking-daily-rss"
+hourlyDirname="/home/vagrant/workspace/html/niconico-ranking-bot/niconico-ranking-hourly-rss"
+dailyDirname="/home/vagrant/workspace/html/niconico-ranking-bot/niconico-ranking-daily-rss"
 mkdir -p $hourlyDirname
 mkdir -p $dailyDirname
 
